@@ -11,7 +11,7 @@ export default function Home() {
       >
         <div className="absolute inset-0  bg-opacity-40 flex items-center justify-center text-white text-center px-4">
           <div>
-            <h1 className="text-4xl md:text-5xl font-bold mb-2">УЛААНБААТАР ХОТЫН ХОГ ХАЯГДЛЫН УХААЛГА МЕНЕЖМЕНТ</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-2">УЛААНБААТАР ХОТЫН ХОГ ХАЯГДЛЫН УХААЛАГ МЕНЕЖМЕНТ</h1>
             <p className="text-lg md:text-xl">ЭКО ХОТ</p>
           </div>
         </div>
